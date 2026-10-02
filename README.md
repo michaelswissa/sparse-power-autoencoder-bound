@@ -1,10 +1,10 @@
 # Sparsity-dependent power-autoencoder bound
 
-This package contains an AI-assisted mathematical research draft by Michael Swissa, exact CPU verification code, and a machine-readable result summary. No affiliation or credentials are asserted. The manuscript has not received external human peer review; independent expert checking is recommended before relying on it. Originality remains provisional.
+This package contains a mathematical research draft by Michael Swissa, exact CPU verification code, and a machine-readable result summary. No affiliation or credentials are asserted. The manuscript has not received external human peer review; independent expert checking is recommended before relying on it. Originality remains provisional.
 
 ## Contents
 
-- `manuscript.md` and `manuscript.pdf`: theorem, proof, references, scope and AI-assistance disclosure.
+- `manuscript.md` and `manuscript.pdf`: theorem, proof, references, scope and unreviewed-draft status.
 - `verify.py`: original finite-case verification program, requiring only Python's standard library.
 - `results.json`: recorded exact-check results.
 
