@@ -1,6 +1,6 @@
 # Sparsity-dependent power-autoencoder bound
 
-For independent sparse symmetric inputs, this note derives an $O(dp^{1/m})$ upper bound on population reconstruction improvement for bias-free tied-weight power autoencoders with odd activation degree $m\geq3$. Combined with the existing bounds of [Chowdhury and Weiner](https://arxiv.org/html/2606.18538v1), it determines the optimal order in their stated dimensional regime. The manuscript contains the assumptions and proof; the Python program supplies reproducible finite-case checks.
+For independent sparse symmetric inputs, this note derives an $O(dp^{1/m})$ upper bound on population reconstruction improvement for bias-free tied-weight power autoencoders with odd activation degree $m\geq3$. Combined with the existing bounds of [Chowdhury and Weiner](https://arxiv.org/html/2606.18538v1) ([original paper on arXiv](https://arxiv.org/abs/2606.18538)), it determines the optimal order in their stated dimensional regime. The manuscript contains the assumptions and proof; the Python program supplies reproducible finite-case checks.
 
 This package contains a mathematical research draft by Michael Swissa, exact CPU verification code, and a machine-readable result summary. No affiliation or credentials are asserted. The manuscript has not received external human peer review; independent expert checking is recommended before relying on it. Originality remains provisional.
 
